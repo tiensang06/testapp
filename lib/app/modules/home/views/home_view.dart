@@ -73,14 +73,6 @@ class _HomeViewState extends State<HomeView> {
                   ),
                 ),
                 const SizedBox(height: 10),
-                const Text(
-                  'Đây là một trang đơn giản với counter',
-                  style: TextStyle(
-                    fontSize: 16,
-                    color: Colors.white70,
-                  ),
-                  textAlign: TextAlign.center,
-                ),
                 const SizedBox(height: 40),
                 Container(
                   padding: const EdgeInsets.all(20),
